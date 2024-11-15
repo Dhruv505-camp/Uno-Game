@@ -47,7 +47,7 @@ Players will play with a deck of 108 cards, including numbered cards and special
 2. **Installation:**
     1. Clone the repository:
         ```bash
-        git clone [invalid URL removed]
+        git clone https://github.com/Dhruv505-camp/Uno-Game.git
         ```
     2. Compile and run the project:
         ```bash
