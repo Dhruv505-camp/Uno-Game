@@ -65,6 +65,8 @@ Players will play with a deck of 108 cards, including numbered cards and special
 5. If a player cannot play a card, they must draw a card from the deck and their turn ends.
 6. Special cards have their respective effects, as described in the game rules.
 7. The first player to run out of cards wins the game.
+8. After 15 rounds it will be draw.
+   
 
 **Contributing**
 
